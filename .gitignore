@@ -1,0 +1,11 @@
+venv/
+.venv/
+backend/venv/
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+__pycache__/
+*.db
+.env
+.vscode/
